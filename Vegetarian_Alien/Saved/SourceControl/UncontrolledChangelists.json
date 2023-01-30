@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cobos/Documents/Unreal Projects/vegetarian_alien/Vegetarian_Alien/Content/Vegetarian_Alien/Maps/Level_1.umap"
+			]
+		}
+	]
+}
